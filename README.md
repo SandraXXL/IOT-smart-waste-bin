@@ -1,8 +1,5 @@
 # Smart Waste Bin using IoT and AWS
 
-<img width="688" alt="smart bin build up" src="https://github.com/user-attachments/assets/49ee70ff-8653-42b6-b140-84b2f09b335a">
-
-
 ## Required Components
 
 You need to install ArduinoIDE and register for an Amazon Web Services account to access to AWS IoT Core services.
