@@ -7,7 +7,7 @@
 
 You need to install ArduinoIDE and register for an Amazon Web Services account to access to AWS IoT Core services.
 
-Required librairies need be installed with Arduino, here is a list of libraries needed in this project but i might have missed some:
+Required librairies need to be installed with Arduino, here is a list of libraries needed in this project but i might have missed some:
 
 Arduino Json
 
