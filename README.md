@@ -21,6 +21,8 @@ Breadboard
 
 Jumper Wires
 
+LCD Screen (optional, this is not included in my implementations since my LCD Screen has a bit of problem but you can add it in your project)
+
 ### Software
 
 AWS IoT Core
