@@ -5,6 +5,22 @@
 
 ## Required Components
 
+You need to install ArduinoIDE and register for an Amazon Web Services account to access to AWS IoT Core services.
+
+Required librairies need be installed with Arduino, here is a list of libraries needed in this project but i might have missed some:
+
+Arduino Json
+
+AwsIotWiFiClient
+
+MFRC522
+
+PubSubClient
+
+Ultrasonic
+
+
+
 ### Hardware
 
 <img width="778" alt="hardware" src="https://github.com/user-attachments/assets/4baaf9ce-e58a-46d5-a19e-7177c55162a8">
