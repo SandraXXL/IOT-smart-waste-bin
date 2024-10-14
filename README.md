@@ -37,6 +37,8 @@ Breadboard
 
 Jumper Wires
 
+Waste bins *2 (at least 2 since it's regarding waste classification)
+
 LCD Screen (optional, this is not included in my implementations since my LCD Screen has a bit of problem but you can add it in your project)
 
 ### Software
