@@ -20,9 +20,6 @@ Ultrasonic
 
 ### Hardware
 
-<img width="778" alt="hardware" src="https://github.com/user-attachments/assets/4baaf9ce-e58a-46d5-a19e-7177c55162a8">
-
-
 ESP32 CP2012 *1
 
 HC-SRO4 Ultrasonic Sensor *2
@@ -40,6 +37,9 @@ Jumper Wires
 Waste bins *2 (at least 2 since it's regarding waste classification)
 
 LCD Screen (optional, this is not included in my implementations since my LCD Screen has a bit of problem but you can add it in your project)
+
+<img width="778" alt="hardware" src="https://github.com/user-attachments/assets/4baaf9ce-e58a-46d5-a19e-7177c55162a8">
+
 
 ### Software
 
