@@ -154,7 +154,7 @@ float checkUltrasonic(int trigPin, int echoPin, int buzzerPin) {
   Serial.println(" cm");
 
   // Check buzzer behavior
-  if (distance < 5) {
+  if (distance < 5) {    // You can edit this base on the size of your bins
     Serial.println("Object detected, buzzer ON\n");
     digitalWrite(buzzerPin, LOW); // Turn on the buzzer
   } else {
